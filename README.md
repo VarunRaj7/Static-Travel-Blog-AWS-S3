@@ -1,4 +1,4 @@
-## eploying a Static Travel Blog on AWS S3
+## Deploying a Static Travel Blog on AWS S3
 
 In this project, a static website is deployed to AWS using S3, CloudFront, and IAM.
 
