@@ -11,3 +11,5 @@ index.html - The Index document for the website.
 /vendor - Bootssrap CSS framework, Font, and JavaScript libraries needed for the website to function.
 
 /css - CSS files for the website.
+
+The website can be viewed at ![Travel-Blog](https://htmlpreview.github.io/?https://github.com/VarunRaj7/Static-Travel-Blog-AWS-S3/blob/master/index.html)
